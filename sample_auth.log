@@ -1,0 +1,92 @@
+2026-10-03 08:05:00 auth-server sshd: Failed password for carol from 10.0.0.13 port 63118 ssh2
+2026-10-03 08:05:20 auth-server sshd: Accepted password for carol from 10.0.0.13 port 31739 ssh2
+2026-10-03 08:28:00 auth-server sshd: Accepted password for dave from 10.0.0.14 port 30425 ssh2
+2026-10-03 09:17:00 auth-server sshd: Failed password for erin from 10.0.0.15 port 52059 ssh2
+2026-10-03 09:17:20 auth-server sshd: Accepted password for erin from 10.0.0.15 port 36698 ssh2
+2026-10-03 10:06:00 auth-server sshd: Accepted password for bob from 10.0.0.12 port 35697 ssh2
+2026-10-03 10:07:00 auth-server sshd: Failed password for alice from 10.0.0.11 port 48024 ssh2
+2026-10-03 10:07:20 auth-server sshd: Accepted password for alice from 10.0.0.11 port 46049 ssh2
+2026-10-03 12:05:20 auth-server sshd: Accepted password for carol from 10.0.0.13 port 57493 ssh2
+2026-10-03 12:17:20 auth-server sshd: Accepted password for erin from 10.0.0.15 port 54898 ssh2
+2026-10-03 12:28:00 auth-server sshd: Accepted password for dave from 10.0.0.14 port 57696 ssh2
+2026-10-03 14:07:20 auth-server sshd: Accepted password for alice from 10.0.0.11 port 39144 ssh2
+2026-10-03 16:06:00 auth-server sshd: Accepted password for bob from 10.0.0.12 port 32082 ssh2
+2026-10-04 02:10:00 auth-server sshd: Failed password for invalid user admin from 203.0.113.45 port 39150 ssh2
+2026-10-04 02:10:06 auth-server sshd: Failed password for invalid user admin from 203.0.113.45 port 46162 ssh2
+2026-10-04 02:10:12 auth-server sshd: Failed password for invalid user admin from 203.0.113.45 port 47219 ssh2
+2026-10-04 02:10:18 auth-server sshd: Failed password for invalid user admin from 203.0.113.45 port 58077 ssh2
+2026-10-04 02:10:24 auth-server sshd: Failed password for invalid user admin from 203.0.113.45 port 56175 ssh2
+2026-10-04 02:10:30 auth-server sshd: Failed password for invalid user admin from 203.0.113.45 port 53723 ssh2
+2026-10-04 02:10:36 auth-server sshd: Failed password for invalid user admin from 203.0.113.45 port 44373 ssh2
+2026-10-04 02:10:42 auth-server sshd: Failed password for invalid user admin from 203.0.113.45 port 39065 ssh2
+2026-10-04 02:10:48 auth-server sshd: Failed password for invalid user admin from 203.0.113.45 port 63392 ssh2
+2026-10-04 02:10:54 auth-server sshd: Failed password for invalid user admin from 203.0.113.45 port 62343 ssh2
+2026-10-04 02:11:00 auth-server sshd: Failed password for invalid user admin from 203.0.113.45 port 35957 ssh2
+2026-10-04 02:11:06 auth-server sshd: Failed password for invalid user admin from 203.0.113.45 port 33087 ssh2
+2026-10-04 02:11:12 auth-server sshd: Failed password for invalid user admin from 203.0.113.45 port 37185 ssh2
+2026-10-04 02:11:18 auth-server sshd: Failed password for invalid user admin from 203.0.113.45 port 40016 ssh2
+2026-10-04 02:11:24 auth-server sshd: Failed password for invalid user admin from 203.0.113.45 port 40484 ssh2
+2026-10-04 02:11:30 auth-server sshd: Failed password for invalid user admin from 203.0.113.45 port 57666 ssh2
+2026-10-04 02:11:36 auth-server sshd: Failed password for invalid user admin from 203.0.113.45 port 34163 ssh2
+2026-10-04 02:11:42 auth-server sshd: Failed password for invalid user admin from 203.0.113.45 port 55216 ssh2
+2026-10-04 02:11:48 auth-server sshd: Failed password for invalid user admin from 203.0.113.45 port 55009 ssh2
+2026-10-04 02:11:54 auth-server sshd: Failed password for invalid user admin from 203.0.113.45 port 60674 ssh2
+2026-10-04 02:12:00 auth-server sshd: Failed password for invalid user admin from 203.0.113.45 port 64676 ssh2
+2026-10-04 02:12:06 auth-server sshd: Failed password for invalid user admin from 203.0.113.45 port 46476 ssh2
+2026-10-04 02:12:12 auth-server sshd: Failed password for invalid user admin from 203.0.113.45 port 30752 ssh2
+2026-10-04 02:12:18 auth-server sshd: Failed password for invalid user admin from 203.0.113.45 port 37507 ssh2
+2026-10-04 02:12:24 auth-server sshd: Failed password for invalid user admin from 203.0.113.45 port 47486 ssh2
+2026-10-04 02:12:30 auth-server sshd: Failed password for invalid user admin from 203.0.113.45 port 52293 ssh2
+2026-10-04 02:12:36 auth-server sshd: Failed password for invalid user admin from 203.0.113.45 port 37310 ssh2
+2026-10-04 02:12:42 auth-server sshd: Failed password for invalid user admin from 203.0.113.45 port 49234 ssh2
+2026-10-04 02:12:48 auth-server sshd: Failed password for invalid user admin from 203.0.113.45 port 58492 ssh2
+2026-10-04 02:12:54 auth-server sshd: Failed password for invalid user admin from 203.0.113.45 port 40365 ssh2
+2026-10-04 08:22:00 auth-server sshd: Accepted password for alice from 10.0.0.11 port 47335 ssh2
+2026-10-04 08:42:00 auth-server sshd: Failed password for dave from 10.0.0.14 port 48965 ssh2
+2026-10-04 08:42:20 auth-server sshd: Accepted password for dave from 10.0.0.14 port 35229 ssh2
+2026-10-04 09:17:00 auth-server sshd: Accepted password for erin from 10.0.0.15 port 53909 ssh2
+2026-10-04 10:07:00 auth-server sshd: Accepted password for bob from 10.0.0.12 port 54807 ssh2
+2026-10-04 10:39:00 auth-server sshd: Accepted password for carol from 10.0.0.13 port 53700 ssh2
+2026-10-04 11:22:00 auth-server sshd: Accepted password for alice from 10.0.0.11 port 60108 ssh2
+### corrupted entry ###
+2026-13-45 99:99:99 auth-server sshd: Failed password for bob from 10.0.0.12
+2026-10-04 12:42:20 auth-server sshd: Accepted password for dave from 10.0.0.14 port 36619 ssh2
+2026-10-04 13:07:00 auth-server sshd: Accepted password for bob from 10.0.0.12 port 49213 ssh2
+2026-10-04 13:17:00 auth-server sshd: Accepted password for erin from 10.0.0.15 port 54260 ssh2
+2026-10-04 14:00:00 auth-server sshd: Failed password for invalid user admin from 198.51.100.77 port 59735 ssh2
+2026-10-04 14:00:10 auth-server sshd: Failed password for invalid user root from 198.51.100.77 port 30212 ssh2
+2026-10-04 14:00:20 auth-server sshd: Failed password for alice from 198.51.100.77 port 47261 ssh2
+2026-10-04 14:00:30 auth-server sshd: Failed password for bob from 198.51.100.77 port 62806 ssh2
+2026-10-04 14:00:40 auth-server sshd: Failed password for carol from 198.51.100.77 port 41708 ssh2
+2026-10-04 14:00:50 auth-server sshd: Failed password for dave from 198.51.100.77 port 63271 ssh2
+2026-10-04 14:01:00 auth-server sshd: Failed password for invalid user test from 198.51.100.77 port 36973 ssh2
+2026-10-04 14:04:00 auth-server sshd: Failed password for invalid user admin from 198.51.100.77 port 49558 ssh2
+2026-10-04 14:04:10 auth-server sshd: Failed password for invalid user root from 198.51.100.77 port 63270 ssh2
+2026-10-04 14:04:20 auth-server sshd: Failed password for alice from 198.51.100.77 port 43035 ssh2
+2026-10-04 14:04:30 auth-server sshd: Failed password for bob from 198.51.100.77 port 40016 ssh2
+2026-10-04 14:04:40 auth-server sshd: Failed password for carol from 198.51.100.77 port 54504 ssh2
+2026-10-04 14:04:50 auth-server sshd: Failed password for dave from 198.51.100.77 port 40587 ssh2
+2026-10-04 14:05:00 auth-server sshd: Failed password for invalid user test from 198.51.100.77 port 64757 ssh2
+2026-10-04 14:39:00 auth-server sshd: Accepted password for carol from 10.0.0.13 port 34558 ssh2
+2026-10-04 22:30:00 auth-server sshd: Accepted password for dave from 10.0.0.14 port 45785 ssh2
+2026-10-05 03:33:00 auth-server sshd: Failed password for carol from 203.0.113.99 port 30037 ssh2
+2026-10-05 03:33:15 auth-server sshd: Failed password for carol from 203.0.113.99 port 51243 ssh2
+2026-10-05 03:33:30 auth-server sshd: Failed password for carol from 203.0.113.99 port 62021 ssh2
+2026-10-05 03:33:45 auth-server sshd: Failed password for carol from 203.0.113.99 port 31276 ssh2
+2026-10-05 03:34:00 auth-server sshd: Failed password for carol from 203.0.113.99 port 37331 ssh2
+2026-10-05 03:34:15 auth-server sshd: Failed password for carol from 203.0.113.99 port 53788 ssh2
+2026-10-05 03:34:30 auth-server sshd: Failed password for carol from 203.0.113.99 port 50153 ssh2
+2026-10-05 03:34:45 auth-server sshd: Failed password for carol from 203.0.113.99 port 45692 ssh2
+2026-10-05 03:41:00 auth-server sshd: Accepted password for carol from 203.0.113.99 port 33796 ssh2
+2026-10-05 05:50:00 auth-server sshd: Accepted password for erin from 10.0.0.15 port 35161 ssh2
+2026-10-05 08:29:00 auth-server sshd: Accepted password for bob from 10.0.0.12 port 44392 ssh2
+2026-10-05 08:52:00 auth-server sshd: Failed password for carol from 10.0.0.13 port 50673 ssh2
+2026-10-05 08:52:20 auth-server sshd: Accepted password for carol from 10.0.0.13 port 56290 ssh2
+2026-10-05 08:58:00 auth-server sshd: Accepted password for dave from 10.0.0.14 port 50622 ssh2
+2026-10-05 09:13:00 auth-server sshd: Accepted password for alice from 10.0.0.11 port 34679 ssh2
+2026-10-05 09:56:00 auth-server sshd: Accepted password for erin from 10.0.0.15 port 60071 ssh2
+2026-10-05 12:58:00 auth-server sshd: Accepted password for dave from 10.0.0.14 port 62717 ssh2
+2026-10-05 13:13:00 auth-server sshd: Accepted password for alice from 10.0.0.11 port 46043 ssh2
+2026-10-05 13:29:00 auth-server sshd: Accepted password for bob from 10.0.0.12 port 33665 ssh2
+2026-10-05 13:52:20 auth-server sshd: Accepted password for carol from 10.0.0.13 port 34337 ssh2
+2026-10-05 13:56:00 auth-server sshd: Accepted password for erin from 10.0.0.15 port 47359 ssh2
